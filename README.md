@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Exelances60](https://github.com/Exelances60)
 
-- 💬 Ask me about **React,HTML,CSS,JAVASCRİPT,TAİLWİNDCSS,REDUX**
+- 💬 Ask me about **React,HTML,CSS,JAVASCRİPT,TAİLWİNDCSS,REDUX,Next.js**
 
 - 📫 How to reach me **enescelik6012@gmail.com**
 
