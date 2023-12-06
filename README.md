@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Yeditepe Universty**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Exelances60](https://github.com/Exelances60)
 
