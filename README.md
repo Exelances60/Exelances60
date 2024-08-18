@@ -3,13 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exelances60&label=Profile%20views&color=0e75b6&style=flat" alt="exelances60" /> </p>
 
-- 🔭 I’m currently working on **Yeditepe Universty**
-
-- 🌱 The project I'm currently working on **Fitness Dashboard**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Exelances60](https://github.com/Exelances60)
-
-- 💬 Ask me about **React,HTML,CSS,JAVASCRİPT,TAİLWİNDCSS,REDUX,NEXTJS**
 
 - 📫 How to reach me **enescelik6012@gmail.com**
 
